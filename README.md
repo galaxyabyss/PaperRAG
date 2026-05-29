@@ -11,6 +11,10 @@
 * Embedding 缓存
 * Streamlit Web UI
 
+
+# Demo
+![demo](assets/demo.png)
+
 ## Tech Stack
 
 * Streamlit
