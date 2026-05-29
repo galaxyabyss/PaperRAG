@@ -1,5 +1,42 @@
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+*.py[cod]
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# Environment Variables
+
 .env
+
+# Streamlit
+
+.streamlit/
+
+# Cache Files
+
+embeddings_cache.pkl
+.cache/
+
+# Temporary Upload Files
+
+temp_upload.pdf
+uploads/
 cache/
-upload/
-__pycache__/
-*.pyc
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# VSCode
+
+.vscode/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
