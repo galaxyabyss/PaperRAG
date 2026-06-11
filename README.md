@@ -11,6 +11,10 @@
 * Embedding 缓存
 * Streamlit Web UI
 
+
+# Demo
+![demo](assets/demo.png)
+
 ## Tech Stack
 
 * Streamlit
@@ -29,6 +33,7 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+However, please note that：change model name to fit your api_key and base_url
 ```
 
 ## Features
