@@ -3,4 +3,9 @@ PyMuPDF
 numpy
 openai
 sentence-transformers
+langchain-text-splitters
 python-dotenv
+torch
+transformers
+scikit-learn
+scipy
